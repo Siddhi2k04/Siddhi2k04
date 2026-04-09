@@ -54,7 +54,7 @@
 | [🛒 Olist E-Commerce Dashboard](https://github.com/Siddhi2k04/Olist-Ecommerce-Dashboard-PowerBI) | E-commerce analytics dashboard on Brazilian Olist dataset | Power BI, DAX |
 | [🗃️ SQL Sales Analytics](https://github.com/Siddhi2k04/sql-sales-analytics) | Normalized relational DB with advanced SQL — window functions, CTEs, revenue insights | PostgreSQL |
 | [🔤 Text-to-SQL (Rule-Based)](https://github.com/Siddhi2k04/text-to-sql-rule-based) | V1 of the text-to-SQL project using rule-based logic — evolved into the LLM version | Python |
-| [🏥 Hospital Management DB *(In Progress)*](https://github.com/Siddhi2k04) | Production-grade DBA project: schema design, indexing, stored procedures, backup & DR setup | PostgreSQL, MSSQL |
+| [🏥 Hospital Management DB](https://github.com/Siddhi2k04/hospital-db-dba-project) | Production-grade DBA project: schema design, indexing, stored procedures, backup & DR setup | PostgreSQL, MSSQL |
 
 ---
 
